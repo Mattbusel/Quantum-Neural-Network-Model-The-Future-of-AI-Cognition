@@ -11,7 +11,8 @@
 
 > ⚠ This is an early-stage, speculative exploration intended to push the envelope of what machine learning can be.
 
----
+---[![Quantum Neural Network Banner](./ChatGPT%20Image%20Apr%2026%2C%202025%2C%2010_40_08%20AM.png)](./ChatGPT%20Image%20Apr%2026%2C%202025%2C%2010_40_08%20AM.png)
+
 
 ##  Vision & Goals
 
